@@ -1,0 +1,23 @@
+{
+  "name": "malalog",
+  "version": "1.1.0",
+  "description": "a funniest logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Its-me-nishmal/Malalog.git"
+  },
+  "author": "Nishmal vadakara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Its-me-nishmal/Malalog/issues"
+  },
+  "homepage": "https://github.com/Its-me-nishmal/Malalog#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "chalk": "^5.3.0"
+  }
+}
